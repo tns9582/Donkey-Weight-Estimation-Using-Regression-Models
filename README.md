@@ -1,4 +1,4 @@
-# 🐴 Donkey Weight Estimation Using Regression Models
+## Project Overview
 
 This project develops machine learning models to estimate the weight of donkeys in rural Kenya using measurable physical characteristics. The goal is to build reliable predictive models that can assist in animal health monitoring, especially in regions where resources are limited.
 
